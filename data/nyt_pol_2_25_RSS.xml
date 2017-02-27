@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Politics</title>
+    <link>http://www.nytimes.com/pages/politics/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Politics.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Sat, 25 Feb 2017 18:36:52 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Politics</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/politics/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Immigration Agents Discover New Freedom to Deport Under Trump</title>
+      <link>http://www.nytimes.com/2017/02/25/us/ice-immigrant-deportations-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/25/us/ice-immigrant-deportations-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/25/us/ice-immigrant-deportations-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/26/us/26ICEMASHUP/26ICEMASHUP-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>I.C.E. has more than 20,000 employees, spread across 400 offices in the United States and 46 countries, and the Trump administration has called for the hiring of 10,000 more.</media:description>
+      <media:credit>Clockwise from top left: Ann Johansson for The New York Times; David Maung/Bloomberg; John Moore/Getty Images; Bryan Cox, via U.S. Immigration and Customs Enforcement; John Moore/Getty Images; Jose Cabezas/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The president&#x2019;s plan to arrest and deport vast numbers of undocumented immigrants will be carried out by agents who say they feel unshackled.</description>
+      <dc:creator>NICHOLAS KULISH, CAITLIN DICKERSON and RON NIXON</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 17:26:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>National Debt Dips. Trump Crows. Well, Sure, but &#x2026;</title>
+      <link>http://www.nytimes.com/2017/02/25/us/politics/national-debt-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/25/us/politics/national-debt-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/25/us/politics/national-debt-trump.html?partner=rss&amp;emc=rss"/>
+      <description>The president accused the media of ignoring the slight decrease. He had nothing to do with the change, which means little, in any case.</description>
+      <dc:creator>BINYAMIN APPELBAUM</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 18:36:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Trump vs. the Press: A Small-Town Boy (Well, Sort of) in Washington</title>
+      <link>http://www.nytimes.com/2017/02/25/us/politics/trump-press-conflict.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/25/us/politics/trump-press-conflict.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/25/us/politics/trump-press-conflict.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/26/us/26TRUMP-MEDIA-01/26TRUMP-MEDIA-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump signing an executive order on Friday. Even Mr. Trump&#x2019;s long history of press dealings may not have prepared him for the intensity of the coverage he gets now.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>Donald Trump was no stranger back in the day to the art of news management. But even that did not seem to prepare him for the capital press corps.</description>
+      <dc:creator>GLENN THRUSH and MICHAEL M. GRYNBAUM</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 17:57:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spicer, Sean M (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>Key Republican in Health Law&#x2019;s Fate Hails From a State That Embraced It</title>
+      <link>http://www.nytimes.com/2017/02/25/us/politics/oregon-republican-representative-affordable-care-act.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/25/us/politics/oregon-republican-representative-affordable-care-act.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/25/us/politics/oregon-republican-representative-affordable-care-act.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/26/us/26walden1/26walden1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Representative Greg Walden, the new chairman of the Energy and Commerce Committee, with a constituent on Tuesday at the Rotary Club in La Grande, Ore.</media:description>
+      <media:credit>Todd Meier for The New York Times</media:credit>
+      <description>Representative Greg Walden of Oregon, where the Affordable Care Act has been a success, leads a committee that will have a large role in drafting a replacement.</description>
+      <dc:creator>ROBERT PEAR</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 16:40:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walden, Gregory P (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>At CPAC, Conservatives Settle Into Their New Role</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/cpac-photos-trump-conservatives.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/cpac-photos-trump-conservatives.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/cpac-photos-trump-conservatives.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25cpacphotos1/25cpacphotos1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <description>As activists gathered this week for the Conservative Political Action Conference they were still processing what life in the majority means.</description>
+      <dc:creator>GABRIELLA DEMCZUK and JEREMY W. PETERS</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 01:51:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Conservative Political Action Conference</category>
+    </item>
+    <item>
+      <title>The Interpreter: Stephen K. Bannon&#x2019;s CPAC Comments, Annotated and Explained</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/stephen-bannon-cpac-speech.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/stephen-bannon-cpac-speech.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/stephen-bannon-cpac-speech.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25interpreter/25interpreter-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stephen K. Bannon spoke at the Conservative Political Action Conference on Thursday.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>What does the president&#x2019;s chief strategist mean by &#x201C;economic nationalism&#x201D; or &#x201C;deconstruction of the administrative state&#x201D;?</description>
+      <dc:creator>MAX FISHER</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 01:16:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Breitbart News Network LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Conservative Political Action Conference</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>H.R. McMaster Breaks With Administration on Views of Islam</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/hr-mcmaster-trump-islam.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/hr-mcmaster-trump-islam.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/hr-mcmaster-trump-islam.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25NSC/25NSC-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump appointed Lt. Gen. H.R. McMaster, left, as national security adviser on Monday.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>The new national security adviser told his staff that the label &#x201C;radical Islamic terrorism&#x201D; was not helpful, repudiating language used by the president.</description>
+      <dc:creator>MARK LANDLER and ERIC SCHMITT</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 01:12:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMaster, H R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Security Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Trump Intensifies His Attacks on Journalists and Condemns F.B.I. &#x2018;Leakers&#x2019;</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/white-house-sean-spicer-briefing.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/white-house-sean-spicer-briefing.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/white-house-sean-spicer-briefing.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25press/25press-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sean Spicer, the White House press secretary, during a briefing on Thursday.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>Reporters from The Times and other outlets were not allowed to enter the office of the press secretary, Sean Spicer, in an unusual breach of protocol.</description>
+      <dc:creator>JULIE HIRSCHFELD DAVIS and MICHAEL M. GRYNBAUM</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 02:04:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">White House Correspondents Assn</category>
+    </item>
+    <item>
+      <title>Trump Denounces F.B.I. Over Leaks, Demanding Investigation</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/trump-fbi-leaks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/trump-fbi-leaks.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/trump-fbi-leaks.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25fbi/25fbi-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump on Wednesday. &#x201C;The FBI is totally unable to stop the national security &#x2018;leakers&#x2019; that have permeated our government for a long time,&#x201D; he said on Twitter.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>The criticism followed a report that the White House asked the bureau to rebut an article about Trump associates and Russian intelligence officials.</description>
+      <dc:creator>JULIE HIRSCHFELD DAVIS</dc:creator>
+      <pubDate>Fri, 24 Feb 2017 19:09:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, James B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>For Commerce Pick Wilbur Ross, &#x2018;Inherently Bad&#x2019; Deals Paid Off</title>
+      <link>http://www.nytimes.com/2017/02/25/world/americas/wilbur-ross-trump-commerce-secretary.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/25/world/americas/wilbur-ross-trump-commerce-secretary.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/25/world/americas/wilbur-ross-trump-commerce-secretary.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/world/00Wilbur1/00Wilbur1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Wilbur L. Ross, President Trump&#x2019;s nominee for commerce secretary, criticized the same trade deals that earned him a fortune across the globe during his Senate confirmation hearings last month.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>Mr. Ross, who amassed a fortune with help from trade deals like Nafta, has vowed to tear up those deals if confirmed as commerce secretary.</description>
+      <dc:creator>AZAM AHMED and ELISABETH MALKIN</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 18:20:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">North American Free Trade Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ross, Wilbur L Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Theodore Lowi, Zealous Scholar of Presidents and Liberalism, Dies at 85</title>
+      <link>http://www.nytimes.com/2017/02/24/us/theodore-lowi-dead.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/theodore-lowi-dead.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/theodore-lowi-dead.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25lowi-obit/25lowi-obit-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Theodore J. Lowi in a family photo from the 1970s or 1980s.</media:description>
+      <media:credit/>
+      <description>Coupling academic expertise with charisma, Professor Lowi popularized his theories with an evangelical zeal and a Southern drawl in lectures, television appearances and books.</description>
+      <dc:creator>SAM ROBERTS</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 04:28:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Political Science Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lowi, Theodore J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Jerome Tuccille, Libertarian Author and Trump Biographer, Dies at 79</title>
+      <link>http://www.nytimes.com/2017/02/24/books/jerome-tuccille-dead.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/books/jerome-tuccille-dead.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/books/jerome-tuccille-dead.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/arts/26tuccille-obit/26tuccille-obit-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jerome Tuccille, center, during his campaign for governor of New York in 1974.</media:description>
+      <media:credit>Tyrone Dukes/The New York Times</media:credit>
+      <description>Mr. Tuccille was a disaffected Roman Catholic looking for a new faith when he discovered the writings of Ayn Rand.</description>
+      <dc:creator>WILLIAM GRIMES</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 04:21:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libertarianism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rand, Ayn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">jerome tuccille</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+    </item>
+    <item>
+      <title>Rory McIlroy Defends Decision to Golf With Donald Trump</title>
+      <link>http://www.nytimes.com/2017/02/24/sports/golf/rory-mcilroy-donald-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/sports/golf/rory-mcilroy-donald-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/sports/golf/rory-mcilroy-donald-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/sports/25mcilroy/25mcilroy-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rory McIlroy during the World Golf Championship at the Trump National Resort in Doral, Fla., last March.</media:description>
+      <media:credit>David Cannon/Getty Images</media:credit>
+      <description>McIlroy was called a &#x201C;bigot&#x201D; for agreeing to play a round with the president, but he said accepting the invitation was not an endorsement.</description>
+      <dc:creator>JACK WILLIAMS</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 02:38:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McIlroy, Rory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+    </item>
+    <item>
+      <title>Trump Is Off to a Slow Start on Trade Promises</title>
+      <link>http://www.nytimes.com/2017/02/24/business/economy/trump-trade-policy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/business/economy/trump-trade-policy.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/business/economy/trump-trade-policy.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25trade1/25trade1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump in the Oval Office on Friday. He has yet to pursue several of his campaign promises on trade.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>The president has not acted on campaign promises to move quickly to declare China a currency manipulator or to initiate renegotiation of the Nafta.</description>
+      <dc:creator>BINYAMIN APPELBAUM</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 01:13:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Trans-Pacific Partnership</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">North American Free Trade Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Fact Check: Trump Blasts &#x2018;Fake News&#x2019; and Repeats Inaccurate Claims at CPAC</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/fact-check-trump-blasts-fake-news-and-repeats-inaccurate-claims-at-cpac.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/fact-check-trump-blasts-fake-news-and-repeats-inaccurate-claims-at-cpac.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/fact-check-trump-blasts-fake-news-and-repeats-inaccurate-claims-at-cpac.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25factcheck3/25factcheck3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump spoke at the Conservative Political Action Conference in Maryland on Friday.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>Once again, President Trump criticized the media for not telling the truth, then offered several misleading claims.</description>
+      <dc:creator>LINDA QIU</dc:creator>
+      <pubDate>Fri, 24 Feb 2017 22:02:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Did Someone Say &#x2018;Tax Code Rewrite&#x2019;? Lobbyists Scramble</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/tax-code-congress.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/tax-code-congress.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/tax-code-congress.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/business/25TAXES1/25TAXES1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Port of Charleston in South Carolina last year. Proposed tax changes are pitting retail and energy giants &#x2014; which rely heavily on imports &#x2014; against America&#x2019;s biggest manufacturers, which hope the changes will make their exports cheaper.</media:description>
+      <media:credit>Luke Sharrett/Bloomberg</media:credit>
+      <description>The Washington &#x201C;swamp&#x201D; President Trump likes to denounce is still teeming with life &#x2014; and it is converging on lawmakers drafting tax legislation.</description>
+      <dc:creator>ALAN RAPPEPORT</dc:creator>
+      <pubDate>Fri, 24 Feb 2017 18:35:12 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Ex-Kentucky Governor to Give Democratic Response to Trump</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/steve-beshear-to-give-democratic-response-to-trump-address.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/steve-beshear-to-give-democratic-response-to-trump-address.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/steve-beshear-to-give-democratic-response-to-trump-address.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/25/us/25democrats/25democrats-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Steve Beshear, a former governor of Kentucky, in 2015.</media:description>
+      <media:credit>Timothy D. Easley/Associated Press</media:credit>
+      <description>Former Gov. Steve Beshear is best known for putting the Affordable Care Act in place in Kentucky when he was the state&#x2019;s governor.</description>
+      <dc:creator>ALEXANDER BURNS</dc:creator>
+      <pubDate>Fri, 24 Feb 2017 18:09:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beshear, Steven L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
+    </item>
+    <item>
+      <title>Trump&#x2019;s Blistering Speech at CPAC Follows Bannon&#x2019;s Blueprint</title>
+      <link>http://www.nytimes.com/2017/02/24/us/politics/trump-conservative-political-action-conference-speech.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/24/us/politics/trump-conservative-political-action-conference-speech.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/24/us/politics/trump-conservative-political-action-conference-speech.html?partner=rss&amp;emc=rss"/>
+      <description>A day after his secretive chief strategist spoke at the annual conservative conference, the president delivered a visceral gut punch of a speech.</description>
+      <dc:creator>GLENN THRUSH</dc:creator>
+      <pubDate>Sat, 25 Feb 2017 02:12:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Conservative Political Action Conference</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Stephen Bannon Reassures Conservatives Uneasy About Trump</title>
+      <link>http://www.nytimes.com/2017/02/23/us/politics/cpac-stephen-bannon-reince-priebus.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/23/us/politics/cpac-stephen-bannon-reince-priebus.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/23/us/politics/cpac-stephen-bannon-reince-priebus.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/24/us/24cpac2/24cpac2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The ballroom at a Maryland resort was packed with conservative activists during speeches from several of President Trump&#x2019;s staff members on Thursday.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>The president&#x2019;s chief strategist vowed that the &#x201C;deconstruction of the administrative state&#x201D; has begun, in a speech at the Conservative Political Action Conference.</description>
+      <dc:creator>JEREMY W. PETERS</dc:creator>
+      <pubDate>Fri, 24 Feb 2017 02:07:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Conservative Political Action Conference</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Priebus, Reince R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Eni Faleomavaega, 73, American Samoa&#x2019;s Long-Serving Delegate to Congress, Dies</title>
+      <link>http://www.nytimes.com/2017/02/23/us/politics/eni-faleomavaega-american-samoas-longest-serving-congressman-dies-at-73.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/23/us/politics/eni-faleomavaega-american-samoas-longest-serving-congressman-dies-at-73.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/23/us/politics/eni-faleomavaega-american-samoas-longest-serving-congressman-dies-at-73.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/24/us/24faleomavaega/24faleomavaega-obit-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eni F. H. Faleomavaega, third from right, being sworn in as American Samoa&#x2019;s congressional delegate in 2011.</media:description>
+      <media:credit>Susan Walsh/Associated Press</media:credit>
+      <description>Mr. Faleomavaega, a Democrat, was a nonvoting delegate to the House of Representatives from 1989 until 2014.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Fri, 24 Feb 2017 01:36:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Faleomavaega, Eni F H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">American Samoa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+    </item>
+    <item>
+      <title>Justice Department Keeps For-Profit Prisons, Scrapping an Obama Plan</title>
+      <link>http://www.nytimes.com/2017/02/23/us/politics/justice-department-private-prisons.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/23/us/politics/justice-department-private-prisons.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/23/us/politics/justice-department-private-prisons.html?partner=rss&amp;emc=rss"/>
+      <description>Attorney General Jeff Sessions directed federal prison officials to keep using the private prisons, which the Obama administration had planned to phase out.</description>
+      <dc:creator>ERIC LICHTBLAU</dc:creator>
+      <pubDate>Fri, 24 Feb 2017 01:34:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sessions, Jefferson B III</category>
+    </item>
+    <item>
+      <title>Betsy DeVos is Publicly Polite, but a Political Fighter</title>
+      <link>http://www.nytimes.com/2017/02/23/us/politics/education-secretary-betsy-devos-donald-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/02/23/us/politics/education-secretary-betsy-devos-donald-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/02/23/us/politics/education-secretary-betsy-devos-donald-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/02/24/us/24devos/25devos-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Betsy DeVos, the education secretary, spoke at the Conservative Political Action Conference on Thursday.</media:description>
+      <media:credit>Al Drago/The New York Times</media:credit>
+      <description>President Trump may have overruled the education secretary on transgender bathroom access, but people who have worked with her say she will not be a meek team player.</description>
+      <dc:creator>RICHARD P&#xC9;REZ-PE&#xD1;A</dc:creator>
+      <pubDate>Fri, 24 Feb 2017 01:19:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeVos, Elizabeth (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Education Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+  </channel>
+</rss>
