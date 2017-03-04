@@ -15,7 +15,7 @@ SPIDER_MODULES = ['scrape_news.spiders']
 NEWSPIDER_MODULE = 'scrape_news.spiders'
 
 FEED_FORMAT = 'jsonlines'
-FEED_URI = "file:///Users/grahamkelly/Desktop/UW Work/Winter 2017/MATH 381/PROJECT2/Markov_News/data/scrapedbloomberg.json"
+FEED_URI = "file:///Users/grahamkelly/Desktop/UW Work/Winter 2017/MATH 381/PROJECT2/Markov_News/data/scrapedbreitbart.json"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -24,9 +24,9 @@ FEED_URI = "file:///Users/grahamkelly/Desktop/UW Work/Winter 2017/MATH 381/PROJE
 # Obey robots.txt rules
 # ROBOTSTXT_OBEY = True
 
-DEPTH_LIMIT: 10
-
-USER_AGENT: "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"
+DEPTH_LIMIT = 10
+COMPRESSION_ENABLED = False
+USER_AGENT: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
