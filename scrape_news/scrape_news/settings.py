@@ -15,7 +15,7 @@ SPIDER_MODULES = ['scrape_news.spiders']
 NEWSPIDER_MODULE = 'scrape_news.spiders'
 
 FEED_FORMAT = 'jsonlines'
-FEED_URI = "file:///Users/grahamkelly/Desktop/UW Work/Winter 2017/MATH 381/PROJECT2/Markov_News/data/scrapedbreitbart.json"
+FEED_URI = "file:///Users/grahamkelly/Desktop/UW Work/Winter 2017/MATH 381/PROJECT2/Markov_News/data/scrapednatreview.json"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
