@@ -15,7 +15,7 @@ SPIDER_MODULES = ['scrape_news.spiders']
 NEWSPIDER_MODULE = 'scrape_news.spiders'
 
 FEED_FORMAT = 'jsonlines'
-FEED_URI = "file:///Users/grahamkelly/Desktop/UW Work/Winter 2017/MATH 381/PROJECT2/Markov_News/data/scrapednatreview.json"
+FEED_URI = "file:///Users/grahamkelly/Desktop/UW Work/Winter 2017/MATH 381/PROJECT2/Markov_News/data/scrapedwsj.json"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -40,7 +40,9 @@ DOWNLOAD_DELAY = 3
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-#COOKIES_ENABLED = False
+COOKIES_ENABLED = False
+
+QUERYCLEANER_REMOVE = '.*'
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
@@ -61,6 +63,7 @@ ITEM_PIPELINES = {
 # See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 SPIDER_MIDDLEWARES = {
     'scrapy.spidermiddlewares.referer.RefererMiddleware': 100,
+    'scrapy_querycleaner.QueryCleanerMiddleware': 200,
 #    'scrape_news.middlewares.ScrapeNewsSpiderMiddleware': 543,
 }
 
